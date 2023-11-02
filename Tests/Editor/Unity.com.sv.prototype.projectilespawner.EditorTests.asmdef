@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.sv.prototype.projectilespawner.Editor.Tests",
+  "references": [
+    "Unity.com.sv.prototype.projectilespawner"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
